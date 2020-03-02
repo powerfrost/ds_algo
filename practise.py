@@ -10,4 +10,7 @@ def bubblesort(array):
 
 array = [5, 4, 3, 2, 1]
 
-print(bubblesort(array))
+
+
+def kandar(array):
+    pass
